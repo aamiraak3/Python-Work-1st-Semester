@@ -1,0 +1,13 @@
+There are two main tasks to complete.
+
+(a) Write a function with the exact name get_area which takes the radius of a circle as input and calculates
+the area. (You might want to import the value of pi from the math module for this calculation.)
+
+(b) Write another function named output_parameter. This should, again, take in one number as input,
+consider this number as the radius of a circle and calculate the parameter of the circle.
+However, you area not required to return the parameter. Instead, the function should simply output the following:
+
+The parameter of the circle with radius (radius) is (parameter)
+Where (radius) should be replaced with the radius given as input to the function and (parameter) should be replaced with the parameter you just calculated.
+For example, if we give 1.0 as input to this function, it should output the following:
+The parameter of the circle with radius 1.0 is 6.2831853
