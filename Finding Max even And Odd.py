@@ -1,4 +1,4 @@
-# This Program find max odd and even in two separate functions
+# This Program find max odd and even in two separate functions. This is In Python 3x
 
 def finding_max_even():
     y = 0
