@@ -1,3 +1,5 @@
+		Defining Functions
+
 There are two main tasks to complete.
 
 (a) Write a function with the exact name get_area which takes the radius of a circle as input and calculates

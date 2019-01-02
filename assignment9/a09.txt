@@ -1,0 +1,14 @@
+		File Handling
+
+Complete the following tasks:
+
+(a) Write a function named line_count that takes in a directory and a filename. It should then read this file from the directory and return the number of lines which are in this file.
+
+(b) Modify the function so that it can take in an optional third parameter. If this parameter is set to True, the function should only count lines which have something other than a whitespace in them.
+
+(c) Write another function character_count which takes in the same inputs as the function above. However, it should count the number of characters in the given file instead of the number of lines.
+
+(d) Modify the function so that it can take in an optional third parameter, which if set to True, causes the function to skip whitespaces from the character count.
+
+(e) Write a third function named move_lines that takes in two relative paths – one for the input file and another for the output file. The function should also take in a third parameter that gives the number
+of lines to be moved from the input file to the output file. This function returns nothing but moves the specified number of lines from the top of the input file to the output file.
